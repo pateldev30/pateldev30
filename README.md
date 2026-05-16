@@ -2,8 +2,9 @@
 > *Building production Flutter apps by day, shipping open source by night.*
 > 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
-[![PlotIQ](https://img.shields.io/badge/PlotIQ-plotiq.app-ff6b35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://plotiq.app)
+[![PlotIQ](https://img.shields.io/badge/PlotIQ.app-ff6b35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://plotiq.app)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devnpatel30)
+
 ---
 
 ## ⚡ About Me
@@ -21,6 +22,16 @@
 | Flutter Developer | M19 — PoreLab Integrity Tester | Flutter, Windows | Nov 2025 – Present |
 | Open Source Contributor | GSSoC 2026 | Flutter | May 2026 - Present |
 | indie developer | Plotiq.app | FLutter, Nodejs | March 2026 – Present |
+
+---
+
+## 🔧 Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Dart](https://skillicons.dev/icons?i=dart) ![JS](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
+| **Frameworks** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flutter](https://skillicons.dev/icons?i=flutter) |
+| **Tools** | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Firebase](https://skillicons.dev/icons?i=firebase) ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
 ---
 
