@@ -9,12 +9,12 @@
 
 ## XP
 
-| Role | Project / Company | Stack | Dates |
-|------|-------------------|-------|--------|
-| Flutter Developer | M19 — PoreLab Integrity Tester | Flutter, Firebase, PostmanAPI | Nov 2025 – Present |
-| Open Source Contributor | GSSoC 2026 | Flutter | May 2026 - Present |
-| indie developer | Plotiq.app | FLutter | March 2026 – Present |
-| Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL, PostmanAPI| Jun 2025- Oct 2025|
+| Role | Company | Stack | Dates |
+|---|---|---|---|
+| Flutter Developer | M19 — PoreLab Integrity Tester | Flutter, Firebase | Nov 2025 – Present |
+| Open Source Contributor | GSSoC 2026 — DenseZK | Flutter, Dart | May 2026 – Present |
+| Indie Developer | PlotIQ.app | Flutter, JS, HTML | Mar 2026 – Present |
+| Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL | Jun 2025 – Oct 2025 |
 
 ---
 
