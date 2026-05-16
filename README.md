@@ -16,27 +16,13 @@
 | Indie Developer | PlotIQ.app | Flutter, JS, HTML | Mar 2026 – Present |
 | Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL | Jun 2025 – Oct 2025 |
 
----
-
-## 🔧 Tech Stack
+##  Tech Stack
 
 | | |
 |---|---|
 | **Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Dart](https://skillicons.dev/icons?i=dart) ![JS](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
 | **Frameworks** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flutter](https://skillicons.dev/icons?i=flutter) |
 | **Tools** | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Firebase](https://skillicons.dev/icons?i=firebase) ![VS Code](https://skillicons.dev/icons?i=vscode) |
-
----
-
-## Community
-
-I actively participate in the developer community - contributing to open source, helping beginners get started, and building in public.
-
-- **[GSSoC 2026](https://gssoc.girlscript.tech/)** — Selected contributor in India's largest open source program (35,000+ applicants). Contributing to privacy-preserving ZK proof systems.
-- **[PlotIQ](https://plotiq.app)** — Built and shipped a free tool used by students and researchers globally (1500+ active users). No paywalls, no signup, forever free.
-- **Open Source** — Believer in building in public. Every project I work on, I document what I learned so others can learn from it too.
-  
----
 
 ## 📬 Reach Me
 You can find me sharing what I build on:
