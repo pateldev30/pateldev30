@@ -11,10 +11,10 @@
 
 | Role | Company | Stack | Dates |
 |---|---|---|---|
-| Flutter Developer | M19 — PoreLab Integrity Tester | Flutter, Firebase | Nov 2025 – Present |
-| Open Source Contributor | GSSoC 2026 — DenseZK | Flutter, Dart | May 2026 – Present |
-| Indie Developer | PlotIQ.app | Flutter, JS, HTML | Mar 2026 – Present |
-| Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL | Jun 2025 – Oct 2025 |
+| Flutter Developer | M19 - PoreLab Integrity Tester | Flutter, Firebase | Nov 2025 - Present |
+| Open Source Contributor | GSSoC 2026 | Flutter, Dart | May 2026 - Present |
+| Indie Developer | PlotIQ.app | Flutter, JS, HTML | Mar 2026 - Present |
+| Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL | Jun 2025 - Oct 2025 |
 
 ##  Tech Stack
 
@@ -35,5 +35,5 @@ You can find me sharing what I build on:
 </p>
 
 <p align="center">
-  <i>"Ship real things. Learn by doing."</i>
+  <i>"Learn fast. Build faster."</i>
 </p>
