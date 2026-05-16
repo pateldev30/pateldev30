@@ -1,5 +1,5 @@
 # Dev N. Patel
-> *Building production Flutter apps by day, shipping open source by night.*
+> *software engineer + indie hacker*
 > 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
 [![PlotIQ](https://img.shields.io/badge/PlotIQ.app-ff6b35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://plotiq.app)
@@ -7,15 +7,7 @@
 
 ---
 
-## ⚡ About Me
-
-- 🏗️ Building **[Plotiq](https://plotiq.app)** — free CSV to chart tool used by students and researchers
-- 📱 Flutter developer working on scientic machines software
-- 🔓 Open source contributor at **GSSoC 2026**
-
----
-
-## 💼 Experience
+## XP
 
 | Role | Project / Company | Stack | Dates |
 |------|-------------------|-------|--------|
