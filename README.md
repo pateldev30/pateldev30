@@ -24,11 +24,9 @@
 | **Frameworks** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Flutter](https://skillicons.dev/icons?i=flutter) |
 | **Tools** | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Firebase](https://skillicons.dev/icons?i=firebase) ![VS Code](https://skillicons.dev/icons?i=vscode) |
 
-## 📬 Reach Me
 You can find me sharing what I build on:
-- [🐦 Twitter @devnpatel30](https://x.com/devnpatel30)
-- [💼 LinkedIn](https://linkedin.com/in/devnpatel30)
-- 🌐 Website: [plotiq.app](https://plotiq.app)
+- [🐦Twitter](https://x.com/devnpatel30)
+- [LinkedIn](https://linkedin.com/in/devnpatel30)
 
 ---
 
