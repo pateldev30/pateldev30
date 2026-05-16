@@ -1,4 +1,4 @@
-# Dev Patel
+# Dev N. Patel
 > *Building production Flutter apps by day, shipping open source by night.*
 > 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
@@ -38,7 +38,7 @@
 
 ## 📬 Reach Me
 
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/devnpatel30)
+- 💼 LinkedIn: [Dev N. Patel](https://linkedin.com/in/devnpatel30)
 - 🌐 Website: [plotiq.app](https://plotiq.app)
 
 ---
