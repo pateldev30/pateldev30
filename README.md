@@ -28,14 +28,12 @@
 
 ---
 
-## 🤝 Community
+## Community
 
-I actively participate in the developer community — contributing to open source, helping beginners get started, and building in public.
+I actively participate in the developer community - contributing to open source, helping beginners get started, and building in public.
 
 - **[GSSoC 2026](https://gssoc.girlscript.tech/)** — Selected contributor in India's largest open source program (35,000+ applicants). Contributing to privacy-preserving ZK proof systems.
-
-- **[PlotIQ](https://plotiq.app)** — Built and shipped a free tool used by students and researchers globally. No paywalls, no signup, forever free.
-
+- **[PlotIQ](https://plotiq.app)** — Built and shipped a free tool used by students and researchers globally (1500+ active users). No paywalls, no signup, forever free.
 - **Open Source** — Believer in building in public. Every project I work on, I document what I learned so others can learn from it too.
   
 ---
