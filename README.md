@@ -28,9 +28,22 @@
 
 ---
 
-## 📬 Reach Me
+## 🤝 Community
 
-- 💼 LinkedIn: [Dev N. Patel](https://linkedin.com/in/devnpatel30)
+I actively participate in the developer community — contributing to open source, helping beginners get started, and building in public.
+
+- **[GSSoC 2026](https://gssoc.girlscript.tech/)** — Selected contributor in India's largest open source program (35,000+ applicants). Contributing to privacy-preserving ZK proof systems.
+
+- **[PlotIQ](https://plotiq.app)** — Built and shipped a free tool used by students and researchers globally. No paywalls, no signup, forever free.
+
+- **Open Source** — Believer in building in public. Every project I work on, I document what I learned so others can learn from it too.
+  
+---
+
+## 📬 Reach Me
+You can find me sharing what I build on:
+- [🐦 Twitter @devnpatel30](https://x.com/devnpatel30)
+- [💼 LinkedIn](https://linkedin.com/in/devnpatel30)
 - 🌐 Website: [plotiq.app](https://plotiq.app)
 
 ---
