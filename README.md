@@ -5,7 +5,7 @@ I currently work as **Software Engineer @M19Lab**, building software for scienti
 
 <div align="left">
 
-[![Website](https://img.shields.io/badge/WEBSITE-ffb703?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/WEBSITE-ffb703?style=for-the-badge&logo=googlechrome&logoColor=black)](https://plotiq.app)
 [![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devnpatel30)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
 
