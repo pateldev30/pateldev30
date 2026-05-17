@@ -8,7 +8,6 @@ I currently work as **Software Engineer @M19Lab**, building software for scienti
 [![Website](https://img.shields.io/badge/WEBSITE-ffb703?style=for-the-badge&logo=googlechrome&logoColor=black)](https://yourwebsite.com)
 [![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devnpatel30)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
-[![Sponsor](https://img.shields.io/badge/SPONSOR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/yourusername)
 
 </div>
 
