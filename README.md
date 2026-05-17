@@ -1,8 +1,6 @@
 # Dev N. Patel
 > *software engineer + indie hacker*
----
 > Currently working as Software Engineer @M19Lab. Building software for scientific machines.
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnpatel30)
 [![PlotIQ](https://img.shields.io/badge/PlotIQ.app-ff6b35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://plotiq.app)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devnpatel30)
