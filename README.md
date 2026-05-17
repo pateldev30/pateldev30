@@ -16,7 +16,7 @@ I currently work as **Software Engineer @M19Lab**, building software for scienti
 
 | Role | Company | Stack | Dates |
 |---|---|---|---|
-| Flutter Developer | M19 - PoreLab Integrity Tester | Flutter, Firebase | Nov 2025 - Present |
+| Software Engineer | M19 - PoreLab Integrity Tester | Flutter, Firebase | Nov 2025 - Present |
 | Open Source Contributor | GSSoC 2026 | Flutter, Dart | May 2026 - Present |
 | Indie Developer | PlotIQ.app | Flutter, JS, HTML | Mar 2026 - Present |
 | Flutter Developer Intern | Friendly IT Solutions | Flutter, Firebase, PostgreSQL | Jun 2025 - Oct 2025 |
