@@ -1,7 +1,7 @@
 # Dev N. Patel
 > *software engineer + indie hacker*
 
-I currently work as **Software Engineer @ M19Lab**, building software for scientific and IoT-based machines.
+I currently work as **Software Engineer @M19Lab**, building software for scientific and IoT-based machines.
 
 <div align="left">
 
